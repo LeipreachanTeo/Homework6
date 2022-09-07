@@ -1,4 +1,4 @@
-﻿int N = new Random().Next(6,7);
+﻿int N = new Random().Next(4,10);
 int[] array = new int[N];
 int sum = 0;
 
